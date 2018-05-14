@@ -5,7 +5,8 @@
     <classes>
       <class name="qaclickacademy.SeleniumTest"/>
       <class name="qaclickacademy.RestAPITest"/>
-	  <class name="qaclickacademy.AppiumTest"/>    	
+	  <class name="qaclickacademy.AppiumTest"/>   
+	  <class name="qaclickacademy.face_book"/> 	
 
     </classes>
   </test> <!-- Test -->

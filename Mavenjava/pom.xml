@@ -58,6 +58,7 @@
   </properties>
   
   <dependencies>
+  
     <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
@@ -71,18 +72,7 @@
       <scope>test</scope>
 </dependency>
 
-<dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>rest-assured</artifactId>
-    <version>3.1.0</version>
-    <scope>test</scope>
-</dependency>
 
-<dependency>
-    <groupId>io.appium</groupId>
-    <artifactId>java-client</artifactId>
-    <version>6.0.0-BETA5</version>
-</dependency>
 
 
 
