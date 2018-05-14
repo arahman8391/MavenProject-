@@ -3,13 +3,14 @@ package qaclickacademy;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
+import org.testng.annotations.BeforeSuite;
+
 
 
 public class face_book {
 	
 	
-	@Test
+	@BeforeSuite
 	public void face_book_login()
 	{
 		System.setProperty("webdriver.chrome.driver", "/Users/RAHMAN/Downloads/chromedriver.dmg");
